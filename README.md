@@ -5,6 +5,7 @@ JPlatformer is a simple raw AWT platformer 'engine' written years ago i just dec
 # How to Run ?
 
   - Just get the code and run JPlatformer.java, simple as that.
+  You can click on the scene to create a dirt floor.
 
 ### Libs
 
