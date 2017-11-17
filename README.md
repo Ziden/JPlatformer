@@ -17,10 +17,6 @@ JPlatformer uses a few simple a small libraries.
 Simple as that.
 
 
-### Plugins
-
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
-
 ### Development
 
 Its been a long time o dont work on this. If you want to use it, feel free, if you want to continue the project i might help. You can contact me @ gabrielslomka@gmail.com
